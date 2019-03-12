@@ -1,0 +1,6 @@
+c:\users\gk\documents\visual studio 2015\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+c:\users\gk\documents\visual studio 2015\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+c:\users\gk\documents\visual studio 2015\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+c:\users\gk\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+c:\users\gk\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+c:\users\gk\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
